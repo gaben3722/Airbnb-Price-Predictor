@@ -35,7 +35,7 @@ footer = dbc.Container(
         dbc.Col(
             html.P(
                 [
-                    html.Span(['Sam Ebner', 'Gabriel Nosek'], className='mr-2'), 
+                    html.Span(['Gabriel Nosek', ' Sam Ebner'], className='mr-2'), 
                       
                 ], 
                 className='lead'
